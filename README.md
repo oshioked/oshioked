@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my github profile. My name’s Oshioke. I’m mostly a frontend developer building magic with javascript while figuring out life. I'm interested in building interesting and innovative products that solves problems while providing a fun and meaningful experiences. Bringing digital product ideas into reality is a thing I live for. Feel free to check out my personal portfolio website <a href = "https://oshioke.vercel.app">here</a>
+Welcome to my github profile. My name’s Oshioke. I’m mostly a frontend developer building magic with javascript while figuring out life. I'm interested in building interesting and innovative products that solves problems while providing a fun and meaningful experiences. Feel free to check out my personal portfolio website <a href = "https://oshioke.vercel.app">here</a>
 
 🔭 I’m currently working on
 - Javascript 
