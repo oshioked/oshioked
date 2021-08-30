@@ -1,20 +1,22 @@
 ### Hi there 👋
 Welcome to my github profile. My name’s Oshioke. I’m mostly a frontend developer building magic with javascript while figuring out life. I'm interested in building interesting and innovative products that solves problems while providing a fun and meaningful experiences. Bringing digital product ideas into reality is a thing I live for.
 
-- 🔭 I’m currently working on
-1. Javascript 
-2. React JS
-3. CSS / SCSS
-4. Styled components
-5. React native
-6. Node js
-7. PostgreSQL
-8. UI design in figma. 
+🔭 I’m currently working on
+- Javascript 
+- React JS
+- CSS / SCSS
+- Styled components
+- React native
+- Node js
+- PostgreSQL
+- UI design in figma. 
 
-- 🌱 I’m currently learning
-1. Typescript
-2. Solidity
-3. System design
 
-- 📫 How to reach me: ...
-1. <a href = "mailto:danieloshos3@gmail.com">Email</a>
+I’m interested in emerging techs. I do my best to stay up to date. 
+🌱 I’m currently learning
+- Typescript
+-  Solidity
+-  System design
+
+When I’m not slapping my keyboard 👨🏾‍💻, I’m probably reading a book📖 or playing video games🎮. 
+Feel free to shoot me a <a href = "mailto:danieloshos3@gmail.com">mail</a> or connect with me on any of my socials. 
