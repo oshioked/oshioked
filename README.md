@@ -14,8 +14,8 @@ Welcome to my github profile. My name’s Oshioke. I’m mostly a frontend devel
 
 I’m interested in emerging techs. I do my best to stay up to date. 
 🌱 I’m currently learning
-- Typescript
 -  Solidity
+-  Rust
 -  System design
 
 When I’m not slapping my keyboard 👨🏾‍💻, I’m probably reading a book📖 or playing video games🎮. 
